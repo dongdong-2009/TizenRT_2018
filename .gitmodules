@@ -1,3 +1,6 @@
 [submodule "external/artik-sdk"]
 	path = external/artik-sdk
 	url = https://github.com/SamsungARTIK/artik-sdk.git
+[submodule "external/azure-iot-sdk"]
+	path = external/azure-iot-sdk
+	url = https://github.com/Azure/azure-iot-sdk-c.git
